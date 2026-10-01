@@ -1,2 +1,4 @@
 # Heartdisease-Risk-Prediction-Project
-A machine learning project that analyzes common health and cardiac measurements to estimate heart disease risk. Enter values from your medical reports, such as blood pressure, cholesterol, heart rate, and ECG results, to receive a model-based risk prediction.
+Heart Disease Risk Prediction is a basic machine learning project built with Python, Pandas, Scikit-learn, and Streamlit. It allows users to enter common clinical values that can be found in medical reports, including age, blood pressure, cholesterol, maximum heart rate, ECG results, chest pain type, and other cardiac indicators. The trained machine learning model then analyzes these values and provides an estimated heart disease risk classification through a simple, user-friendly web interface.
+
+This project is primarily intended as a learning and demonstration project for understanding how machine learning models can be integrated into an interactive healthcare-oriented application. The prediction is not a medical diagnosis and should not be used as a substitute for professional medical advice.
